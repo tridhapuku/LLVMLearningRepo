@@ -1,0 +1,6 @@
+/root/LLVMLearning/MyLLVMPass/build/CMakeFiles/edit_cache.dir
+/root/LLVMLearning/MyLLVMPass/build/CMakeFiles/rebuild_cache.dir
+/root/LLVMLearning/MyLLVMPass/build/CMakeFiles/intrinsics_gen.dir
+/root/LLVMLearning/MyLLVMPass/build/CMakeFiles/acc_gen.dir
+/root/LLVMLearning/MyLLVMPass/build/CMakeFiles/omp_gen.dir
+/root/LLVMLearning/MyLLVMPass/build/CMakeFiles/MyPass.dir
